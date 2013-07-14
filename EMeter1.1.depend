@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1373561464 source:d:\cstuff\emeter1.1\emeter.c
+	"windows.h"
+	<conio.h>
+	<stdio.h>
+	"ps2000.h"
+
+1361371420 d:\cstuff\emeter1.1\ps2000.h
+
